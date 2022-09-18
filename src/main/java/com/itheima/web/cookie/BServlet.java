@@ -17,6 +17,7 @@ public class BServlet extends HttpServlet {
 
         //1. 获取Cookie数组
         Cookie[] cookies = request.getCookies();
+        //asdasdasdsadsa
 
         //2. 遍历数组
         for (Cookie cookie : cookies) {
